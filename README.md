@@ -3,4 +3,4 @@
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jeppy's%20Modding%20Centre)
 
-![alt text](https://raw.githubusercontent.com/NotJeppy/JeppyModCentre/refs/heads/main/images/Thank%20you%20jeppy.jpg "Thank You!")
+<img src="https://raw.githubusercontent.com/NotJeppy/JeppyModCentre/refs/heads/main/images/Thank%20you%20jeppy.jpg" width="100" height="100">
