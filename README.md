@@ -2,3 +2,5 @@
 
 
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jeppy's%20Modding%20Centre)
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Thank You!")
