@@ -4,7 +4,9 @@
 # ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jeppy's%20Modding%20Centre)
 
 <img src="https://raw.githubusercontent.com/NotJeppy/JeppyModCentre/refs/heads/main/images/Thank%20you%20jeppy.jpg" width="200" height="200">
+
 # Thanks for purchasing!
+
 Scroll down below to see what you can do with your modded system.
 
 Welcome to the **3DS Modding Hub** – your all-in-one guide to unleashing the full potential of your modded Nintendo 3DS system. Whether you're a first-time modder or a seasoned homebrew enthusiast, this hub is designed to provide clear, organized, and safe information to help you get the most out of your 3DS.
