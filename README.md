@@ -97,12 +97,6 @@ A: It’s rare if you follow trusted guides. Always backup your NAND with GodMod
 
 ---
 
-## 📢 Contributions Welcome
-
-Feel free to submit pull requests to update tools, add new guides, or suggest changes. This is a community-driven project for 3DS fans everywhere!
-
----
-
 ## 📬 Contact & Credits
 
 - Maintainer: [Jeppy](https://github.com/NotJeppy)
